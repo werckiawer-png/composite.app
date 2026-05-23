@@ -1,0 +1,10 @@
+nome,E1_f (GPa),E2_f (GPa),G12_f (GPa),nu12_f
+Carbono AS4,225,15,15,0.2
+Vidro E,73,73,30,0.22
+Boro,400,400,170,0.2
+Carbono T300,230,22,22,0.2
+Carbono IM7,276,19,19,0.2
+Vidro S2,88,88,35,0.23
+Kevlar 49,124,8,3,0.35
+SiC,410,410,180,0.19
+Alumina,380,380,150,0.22
